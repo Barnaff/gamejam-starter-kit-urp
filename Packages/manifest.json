@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "com.bgtools.playerprefseditor": "1.2.1",
-    "com.browar.editor-toolbox": "0.12.0",
     "com.brunomikoski.animationsequencer": "0.5.1",
     "com.cysharp.unitask": "2.3.3",
     "com.rotaryheart.serializabledictionarylite": "2.6.11",
@@ -46,7 +45,8 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.febucci.custom-hierarchy": "1.2.0"
   },
   "scopedRegistries": [
     {
@@ -54,9 +54,9 @@
       "url": "https://package.openupm.com",
       "scopes": [
         "com.bgtools.playerprefseditor",
-        "com.browar.editor-toolbox",
         "com.brunomikoski.animationsequencer",
         "com.cysharp.unitask",
+        "com.febucci.custom-hierarchy",
         "com.openupm",
         "com.rotaryheart.serializabledictionarylite",
         "nl.jessestam.extenject"

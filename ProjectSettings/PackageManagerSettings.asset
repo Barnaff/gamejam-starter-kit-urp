@@ -31,9 +31,9 @@ MonoBehaviour:
     m_Url: https://package.openupm.com
     m_Scopes:
     - com.bgtools.playerprefseditor
-    - com.browar.editor-toolbox
     - com.brunomikoski.animationsequencer
     - com.cysharp.unitask
+    - com.febucci.custom-hierarchy
     - com.openupm
     - com.rotaryheart.serializabledictionarylite
     - nl.jessestam.extenject
