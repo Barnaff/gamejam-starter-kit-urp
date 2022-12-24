@@ -6,7 +6,7 @@ The kit includes the following packages:
 
 - [SerializableDictionaryLite](https://github.com/RotaryHeart/SerializableDictionaryLite): A lightweight version of Unity's built-in serializable dictionary, allowing you to easily serialize dictionaries in the Unity Inspector.
 
-- [Unity Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox): A collection of useful editor tools, including a Hierarchy search, a component context menu, and a prefab breaker.
+- [Custom Hierarchy](https://github.com/febucci/unitypackage-custom-hierarchy): A tool for customizing the appearance of objects in the Unity Hierarchy window, allowing you to easily distinguish different types of objects and organize your project.
 
 - [Extenject](https://github.com/nolimet/Extenject): A lightweight dependency injection framework for Unity, allowing you to easily manage and inject dependencies in your project.
 
