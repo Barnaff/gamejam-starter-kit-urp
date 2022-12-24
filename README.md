@@ -37,10 +37,9 @@ We hope these tools will help you get your game jam project off the ground and a
 
 Using a GitHub template is a quick and easy way to get started on your game jam project. Here's how to use this template:
 
-1. Go to the [template repository](https://github.com/[USERNAME]/[REPO_NAME]) on GitHub.
-2. Click the "Use this template" button.
-3. Give your new repository a name and click "Create repository from template".
-4. Clone the repository to your local machine using your preferred Git client or by running the following command in a terminal:
+1. Click the "Use this template" button.
+2. Give your new repository a name and click "Create repository from template".
+3. Clone the repository to your local machine using your preferred Git client or by running the following command in a terminal:
 ```
 git clone https://github.com/[USERNAME]/[NEW_REPO_NAME].git
 ```
