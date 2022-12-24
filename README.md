@@ -43,7 +43,7 @@ Using a GitHub template is a quick and easy way to get started on your game jam 
 ```
 git clone https://github.com/[USERNAME]/[NEW_REPO_NAME].git
 ```
-4. Open the project in Unity by double-clicking on the `.unity` file in the root of the repository.
+4. Open the project in from the Unity Hub.
 
 You should now be able to start working on your game jam project using the tools and utilities provided in the template. Happy jamming!
 
