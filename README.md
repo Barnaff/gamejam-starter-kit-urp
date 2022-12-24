@@ -14,8 +14,6 @@ The kit includes the following packages:
 
 - [PlayerPrefs Editor](https://github.com/Dysman/bgTools-playerPrefsEditor): A simple editor tool for quickly viewing and editing PlayerPrefs in the Unity Inspector.
 
-- [Newtonsoft.Json for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity): A Unity-compatible version of the popular JSON serialization library, Newtonsoft.Json.
-
 - [Animation Sequencer](https://github.com/brunomikoski/Animation-Sequencer): A simple tool for creating and previewing animation sequences in the Unity Editor.
 
 In addition to the above packages, the template also includes the following assets within the project:
